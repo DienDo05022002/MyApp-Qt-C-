@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons-dashboard/free.png</file>
+        <file>icons-dashboard/home.png</file>
+        <file>icons-dashboard/left-arrow.png</file>
+        <file>icons-dashboard/text-editor.png</file>
+        <file>icons-dashboard/todo-list.png</file>
+        <file>icons-dashboard/weather.png</file>
+        <file>App/Qml/TextEditor/TodoList.qml</file>
+        <file>App/Qml/TextEditor/TodoList2.qml</file>
+        <file>App/Qml/WeatherApp/WeatherApp.qml</file>
+        <file>App/Qml/WeatherApp/icons/clendar.png</file>
+        <file>App/Qml/WeatherApp/icons/clock.jpg</file>
+        <file>App/Qml/WeatherApp/icons/wallpaper-weather.jpg</file>
+        <file>App/Qml/WeatherApp/icons/weather-few-clouds.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-fog.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-haze.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-icy.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-overcast.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-showers.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-sleet.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-snow.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-storm.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-sunny-very-few-clouds.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-sunny.png</file>
+        <file>App/Qml/WeatherApp/icons/weather-thundershower.png</file>
+        <file>App/Qml/WeatherApp/components/BigForecastIcon.qml</file>
+        <file>App/Qml/WeatherApp/components/DateTime.qml</file>
+        <file>App/Qml/WeatherApp/components/ForecastIcon.qml</file>
+        <file>App/Qml/WeatherApp/components/README.txt</file>
+        <file>App/Qml/WeatherApp/components/WeatherIcon.qml</file>
+        <file>App/Qml/QtTextEditor/QtTextEditor.qml</file>
+        <file>App/Qml/QtTextEditor/outlines/oCopy.png</file>
+        <file>App/Qml/QtTextEditor/outlines/oCut.png</file>
+        <file>App/Qml/QtTextEditor/outlines/oNew.png</file>
+        <file>App/Qml/QtTextEditor/outlines/oOpen.png</file>
+        <file>App/Qml/QtTextEditor/outlines/oPaste.png</file>
+        <file>App/Qml/QtTextEditor/outlines/oSave.png</file>
+    </qresource>
+</RCC>
